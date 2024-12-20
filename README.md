@@ -22,17 +22,6 @@
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yacztiss&show_icons=true&theme=react" alt="yacztiss's GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacztiss&layout=compact&langs_count=6&theme=react" alt="yacztiss's Top Languages" />
-</p>
-
-
----
-
 <h3 align="left">Languages</h3>
 <ul aling="left">
   <li>English: Fluent (C1-C2)</li>
@@ -41,6 +30,17 @@
 </ul>
 
 ---
+<h3 align="left">GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yacztiss&show_icons=true&theme=react" alt="yacztiss's GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacztiss&layout=compact&langs_count=6&theme=react" alt="yacztiss's Top Languages" />
+</p>
+
+---
+
+
 
 <h3 align="left">Contact Information</h3>
 
