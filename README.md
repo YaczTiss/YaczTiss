@@ -1,4 +1,4 @@
-<h3 align="left">Hey, i'm Yac'z! 👋</h3>
+<h3 align="left">Hey, i'm Yacoub Tiss (YaczTiss)! 👋</h3>
 <p align="left">2nd year international section CS Student of The University of Bordeaux!</p>
 
 ---
