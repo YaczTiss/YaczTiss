@@ -15,6 +15,13 @@
 
 ---
 
+<h3 align="left">Achievements</h3>
+<ul aling="left">
+  <li>Top 2 in <a href="https://www.nuitdelinfo.com/inscription/defis/liste">AI CS Nite Challenge</a>; Group Name: "42 Compile Error"; Challenge: "Mettez de l'intelligence dans votre moteur"</li>
+</ul>
+
+---
+
 <h3 align="left">Languages</h3>
 <ul aling="left">
   <li>English: Fluent (C1-C2)</li>
