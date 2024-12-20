@@ -22,11 +22,32 @@
 
 ---
 
+<h3 align="left">GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yacztiss&show_icons=true&theme=react" alt="yacztiss's GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacztiss&layout=compact&langs_count=6&theme=react" alt="yacztiss's Top Languages" />
+</p>
+
+
+---
+
 <h3 align="left">Languages</h3>
 <ul aling="left">
   <li>English: Fluent (C1-C2)</li>
   <li>Arabic: Fluent (C1-C2)</li>
   <li>French: Strong (C1)</li>
+</ul>
+
+---
+
+<h3 align="left">Contact Information</h3>
+
+<ul align="left">
+  <li>Email: <a href="mailto:yacoubtiss@gmail.com">yacoubtiss@gmail.com</a></li>
+  <li>Instagram: <a href="https://instagram.com/yacoub_tiss">@yacoub_tiss</a></li>
+  <li>Discord: <a href="https://discordapp.com/users/Tiss#6435">Tiss#6435</a></li>
 </ul>
 
 ---
