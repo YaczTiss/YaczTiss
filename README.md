@@ -48,6 +48,7 @@
   <li>Email: <a href="mailto:yacoubtiss@gmail.com">yacoubtiss@gmail.com</a></li>
   <li>Instagram: <a href="https://instagram.com/yacoub_tiss">@yacoub_tiss</a></li>
   <li>Discord: <a href="https://discordapp.com/users/Tiss#6435">Tiss#6435</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/yacoub-tiss-15983027a/">Yacoub Tiss</a></li>
 </ul>
 
 ---
